@@ -1,0 +1,19 @@
+HOSPITAL NAME: Allied                    Hospital Address: abc                           
+
+
+Doctor Name: Ali        hassan     		 Doctor Phone Number: 0000000         
+
+Patient Name: azhar      ahmed      	Age: 23   Patient PhNO: 000000000      
+
+		DISEASE DETAILS ARE:
+asgdasgdgdsgad
+                                                                                                                                                                                         
+		TEST DETAILS ARE:
+haKLDHAklda
+                                                                                                                                                                                            
+		MEDICINE DETAILS ARE:
+JAKLSDFJSKLD
+                                                                                                                                                                                           
+
+
+Date:Jun 23 2021         		Time:10:52:01            
